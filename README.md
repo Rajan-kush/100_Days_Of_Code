@@ -2,7 +2,7 @@
 # 🚀 100 Days of Code Challenge
  Welcome to my 100 Days of Code journey! 🎯 I am committing to coding every day, building projects, and improving my skills in React, Node.js, Next.js, Express, SQL, PostgreSQL, and APIs.
 
-📅 Challenge Start Date: 21/02/2025
+📅 Challenge Start Date: 04/03/2025
 
 **🎯 Goals:**
 
