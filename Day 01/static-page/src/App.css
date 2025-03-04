@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  background-color: #282c34;
+  position: relative;
+}
+
+.logo {
+  height: 5rem;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 4rem;
+  width: 4rem;
+}
+
+.logo h2 {
+  color: #61dafb;
+}
+
+h1 {
+  color: white;
+  margin-left: 3rem;
+}
+
+ul li {
+  margin: 3rem;
+  color: white;
+  text-decoration: solid;
+  text-decoration-color: #61dafb;
+}
